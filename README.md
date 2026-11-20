@@ -84,5 +84,14 @@ La fonction a plusieurs paramètres (épaisseur des traits, taille de la rosace.
 100 pétales :
 
 ![image](./output/rosace.png)
-
 <br><br>
+
+### - Mosaïque :
+![image](./output/mosasas.png)
+<br><br>
+
+### - Mosaïque miroir :
+![image](./output/mirosas.png)
+<br><br>
+
+# Merci d'avoir lu ce compte rendu et bon courage avec le reste!
